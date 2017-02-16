@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Books</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <div>
+        <h2>Book</h2>
+        <table id="book" cellpadding="2" cellspacing="2" border="1" width="400px">
+            <tr>
+                <td style="background-color: gray; color: white">BookId</td>
+                <td style="background-color: gray; color: white">ISBN</td>
+                <td style="background-color: gray; color: white">Name</td>
+                <td style="background-color: gray; color:white">Edition</td>
+                <td style="background-color: gray; color:white">Format</td>
+                <td style="background-color: gray; color:white">Pages</td>
+            </tr>
+        </table>
+    </div> 
+
+    <script src="Scripts/jquery-3.1.1.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $.ajax({
+                url: '/Api/Book',
+                type: "GET",
+                contentType: 'json',
+                success: function (data) { 
+                    for (var i = 0; i < data.length; i++) {
+                        $("#book").append("<tr><td>" + data[i].BookId + "</td>" + "<td>" + data[i].ISBN + "</td>" + "<td>" + data[i].Name + "</td>" + "<td>" + data[i].Edition + "</td>" + "<td>" + data[i].Format + "</td>" +  "<td>" + data[i].Pages + "</td></tr>")
+                    }
+                },
+                error: function (msg) { alert("error"); }
+            });
+        });
+
+    </script> 
+</body>
+</html>
