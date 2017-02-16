@@ -1,0 +1,7 @@
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\bin\Debug\BookManagementDataAccess.dll
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\bin\Debug\BookManagementDataAccess.pdb
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\bin\Debug\BookManagementBusinessObject.dll
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\bin\Debug\BookManagementBusinessObject.pdb
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\obj\Debug\BookManagementDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\obj\Debug\BookManagementDataAccess.dll
+C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementDataAccess\obj\Debug\BookManagementDataAccess.pdb
