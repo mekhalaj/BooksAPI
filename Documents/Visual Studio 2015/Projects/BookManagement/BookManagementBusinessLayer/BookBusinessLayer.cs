@@ -10,11 +10,14 @@ namespace BookManagementBusinessLayer
 {
     public class BookBusinessLayer : IBookBusinessLayer
     {
+        // Dependency injection...
+        // It is bad to hardcode the dependency here by creating an object of type BookDataAccess
+        // Now we do not have to change the controller if the implementation of BookDataAccess changes
         private IBookDataAccess _bookDataAccess;
 
-        public BookBusinessLayer()
+        public BookBusinessLayer(IBookDataAccess bda)
         {
-            _bookDataAccess = new BookDataAccess();
+            this._bookDataAccess = bda;
         }
 
         public async Task<List<Book>> GetBooks()

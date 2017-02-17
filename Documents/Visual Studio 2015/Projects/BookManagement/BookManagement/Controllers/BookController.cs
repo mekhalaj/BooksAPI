@@ -12,11 +12,14 @@ namespace BookManagement.Controllers
 {
     public class BookController : ApiController
     {
+        // Dependency injection...
+        // It is bad to hardcode the dependency here by creating an object of type BookBusinessLayer
+        // Now we do not have to change the controller if the implementation of BookBusinessLayer changes
         private IBookBusinessLayer _bookBusinessLayer;
 
-        public BookController()
+        public BookController(IBookBusinessLayer bbl)
         {
-            _bookBusinessLayer = new BookBusinessLayer();
+            this._bookBusinessLayer = bbl;
         }
 
         public async Task<List<Book>> GetBooks()

@@ -7,3 +7,12 @@ C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\
 C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.dll
 C:\Users\admin\Source\Repos\BooksAPI\.git\BooksAPI\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.pdb
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementBusinessLayer.dll
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementBusinessLayer.pdb
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementBusinessObject.dll
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementDataAccess.dll
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementBusinessObject.pdb
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\bin\Debug\BookManagementDataAccess.pdb
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.csprojResolveAssemblyReference.cache
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.dll
+G:\interview\DotNet2\trunk\Documents\Visual Studio 2015\Projects\BookManagement\BookManagementBusinessLayer\obj\Debug\BookManagementBusinessLayer.pdb
